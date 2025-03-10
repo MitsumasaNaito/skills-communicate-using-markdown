@@ -3,3 +3,6 @@
 ``` javascript
 var a = 2 * 3 / 6;
 ```
+- [x] check syntax
+- [ ] get up early
+- [ ] study
